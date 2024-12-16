@@ -1,0 +1,43 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Sistema Gastrico
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: 'Odin Enrique '
+    family-names: Armenta Contretas
+    email: l21212140@tectijuana.edu.mx
+  - given-names: 'Jaime Jhoelly '
+    family-names: Paniagua Fernandez
+    email: l21212171@tectijuana.edu.mx
+  - given-names: Angel Ismael
+    family-names: Venegas Ameca
+    email: l21212184@tectijuana.edu.mx
+repository-code: >-
+  https://github.com/AngelVenegas21212184/SistemaGastrico-Gastritis
+abstract: >-
+  La gastritis es una inflamación de la mucosa gástrica  
+  que puede ser causada por infecciones, uso prolongado   
+  de medicamentos como antiinflamatorios no esteroides
+  (AINEs), consumo excesivo de alcohol o estrés. Para
+  contrarrestar sus efectos, el sistema fisiológico 
+  gástrico desempeña un papel clave mediante la   
+  regulación de la secreción ácida y la protección de la
+  mucosa. Las células del estómago producen ácido
+  clorhídrico para la digestión, pero también generan   
+  moco y bicarbonato para proteger los tejidos frente a   
+  la acidez. Cuando este equilibrio se altera, se produce
+  daño en la mucosa, exacerbando la inflamación. Un  
+  sistema adecuado de regulación y reparación contribuye   
+  a aliviar la gastritis y prevenir complicaciones.
+keywords:
+  - Gastritis
+  - Estomago
+  - Pared Estomacal
+license: BSD-2-Clause
+version: '1.1'
+date-released: '2024-12-16'
