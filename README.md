@@ -18,12 +18,12 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 Diseñar un gemelo digital de un sistema fisiológico que permita identificar las diferencias entre un paciente afectado por una enfermedad (caso) y un individuo saludable (control) para desarrollar un protocolo de tratamiento mediante un sistema de control en lazo cerrado.
 
 ## Descripción detallada del sistema
-...
+El estómago es un órgano esencial del sistema digestivo que se encarga de almacenar, mezclar y digerir los alimentos antes de enviarlos al intestino delgado. Está dividido en cuatro regiones: cardias, fondo, cuerpo y antro pilórico. Su pared está formada por cuatro capas principales: mucosa, submucosa, muscular y serosa, que trabajan en conjunto para proteger el órgano, secretar sustancias y realizar movimientos de mezcla. En la mucosa se encuentran las glándulas gástricas que producen ácido clorhídrico, enzimas como la pepsina y moco, los cuales permiten la digestión de proteínas y protegen la mucosa de la acidez. Además, el estómago regula el vaciamiento gástrico a través del píloro, permitiendo el paso controlado del quimo al duodeno. Su actividad está regulada por señales nerviosas y hormonales, como la gastrina, que estimula la producción de ácido, y la somatostatina, que la inhibe. Este equilibrio entre secreciones y funciones motoras es esencial para una digestión eficiente y para proteger la mucosa de lesiones o inflamaciones como la gastritis.
 
 ## Referencias principales
-[1] H. Motulsky, Intuitive biostatistics: a nonmathematical guide to statistical thinking. 4th ed. Oxford, New York, USA: Oxford University Press, 2014.
+[1]Fundación Mayo. “Gastritis - Síntomas y causas - Mayo Clinic”. Top-ranked Hospital in the Nation - Mayo Clinic. [En línea]. Disponible: Una vez definido el modelo fisiológico con el que se trabaja, que a su vez muestra como es que puede recrear de alguna forma el efecto que causa la gastritis en el organismo humano, siendo las fórmulas empleadas las siguientes:
 
-[2] P. A. Valle, L. N. Coria, C. Plata & Y. Salazar, “CAR-T cell therapy for the treatment of ALL: eradication conditions and in silico experimentation,” Hemato, vol. 2, issue 3, pp. 441-462, Jul 2021. https://doi.org/10.3390/hemato2030028 
+[2] “Gastritis: MedlinePlus enciclopedia médica.” https://medlineplus.gov/spanish/ency/article/001150.htm
 
-[3] MathWorks. (n.d.). Sistemas Dinámicos [Online]. Available: https://www.mathworks.com/discovery/dynamic-systems.html
+[3]Bayer, “Estómago: función, anatomía y tratamiento de trastornos,” Iberogast Spain, Jun. 03, 2024. https://www.iberogast.es/blog/funcion-del-estomago
 
