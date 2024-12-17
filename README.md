@@ -1,12 +1,14 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=AngelVenegas21212184/SistemaGastrico-Gastritis)
 
-# Sistema Gastrico
+# Sistema Gástrico
 
 ## Estudiantes
 Armenta Contreras Odin Enrique, Paniagua Fernandez Jaime Jhoelly, Venegas Ameca Angel Ismael 
 Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana, Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l21212140@tectijuana.edu.mx; l21212171@tectijuana.edu.mx l21212184@tectijuana.edu.mx
 
-## Asignaturas o departmento donde se puede usar la Actividad
+## Asignaturas o departamento donde se puede usar la Actividad
+Anatomía  y Fisiología 1
+Anatomía  y Fisiología 2
 Modelado de Sistemas Fisiológicos de Ingeniería Biomédica
 
 ## Información general
@@ -22,8 +24,6 @@ El estómago es un órgano esencial del sistema digestivo que se encarga de alma
 
 ## Referencias principales
 [1]Fundación Mayo. “Gastritis - Síntomas y causas - Mayo Clinic”. Top-ranked Hospital in the Nation - Mayo Clinic. [En línea]. Disponible: Una vez definido el modelo fisiológico con el que se trabaja, que a su vez muestra como es que puede recrear de alguna forma el efecto que causa la gastritis en el organismo humano, siendo las fórmulas empleadas las siguientes:
-
-[2] “Gastritis: MedlinePlus enciclopedia médica.” https://medlineplus.gov/spanish/ency/article/001150.htm
-
-[3]Bayer, “Estómago: función, anatomía y tratamiento de trastornos,” Iberogast Spain, Jun. 03, 2024. https://www.iberogast.es/blog/funcion-del-estomago
-
+[2]M. C. K. Khoo, Physiological control systems: Analysis, Simulation, and Estimation. Wiley-IEEE Press, 1999.
+[3] “Gastritis: MedlinePlus enciclopedia médica.” https://medlineplus.gov/spanish/ency/article/001150.htm
+[4]Bayer, “Estómago: función, anatomía y tratamiento de trastornos,” Iberogast Spain, Jun. 03, 2024. https://www.iberogast.es/blog/funcion-del-estomago
